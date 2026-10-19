@@ -3,10 +3,10 @@
   "lang": "es",
   "url": "https://inematds.github.io/prof2030-auditor/es/",
   "nome": "Auditor de IA",
-  "sub": "Profissional 2030 · formación",
+  "sub": "Profesional 2030 · formación",
   "icone": "escudo",
   "volta": {
-    "t": "Área Profissional 2030",
+    "t": "Área Profesional 2030",
     "href": "https://inematds.github.io/profissional-2030/"
   },
   "lado_card": {
@@ -16,18 +16,18 @@
     "link": "Abrir el laboratorio",
     "href": "https://inematds.github.io/prof2030-lab/"
   },
-  "rodape": "INEMA.CLUB · contenido abierto y gratuito · formato INEMA Learning v7.2 · <a href=\"https://inematds.github.io/profissional-2030/\">Profissional 2030</a> · <a href=\"https://inema.club/\">inema.club</a> · Evaluación y triaje de riesgos de IA: no es pentest, ni respuesta a incidentes, ni dictamen jurídico. · <a href=\"https://www.inema.club/cursos/338-profissional-2030-auditor-de-ia-inventario-triagem-de-riscos-e-relatorio-8-aulas/\">Ficha de este curso en INEMA.CLUB</a> · <a href=\"https://www.inema.club/aprender-inteligencia-artificial/\">Guía: cómo aprender IA</a>",
+  "rodape": "INEMA.CLUB · contenido abierto y gratuito · formato INEMA Learning v7.2 · <a href=\"https://inematds.github.io/profissional-2030/\">Profesional 2030</a> · <a href=\"https://inema.club/\">inema.club</a> · Evaluación y triaje de riesgos de IA: no es pentest, ni respuesta a incidentes, ni dictamen jurídico. · <a href=\"https://www.inema.club/cursos/338-profissional-2030-auditor-de-ia-inventario-triagem-de-riscos-e-relatorio-8-aulas/\">Ficha de este curso en INEMA.CLUB</a> · <a href=\"https://www.inema.club/aprender-inteligencia-artificial/\">Guía: cómo aprender IA</a>",
   "videos": {},
   "inicio": {
-    "kicker": "Profissional 2030 · formación Auditor de IA · 8 clases",
+    "kicker": "Profesional 2030 · formación Auditor de IA · 8 clases",
     "titulo": "Auditor de IA: encontrar, clasificar y explicar los riesgos de la IA que la empresa ya usa",
     "lead": "La empresa ya usa IA: apps hechas con vibe coding, agentes en WhatsApp, integraciones con el correo, hojas de cálculo con datos de clientes. En ocho clases aprendes a pedir autorización, levantar el inventario, clasificar cada riesgo con evidencia y entregar a la dirección un informe con un plan de 30 días.",
     "cta": "Empezar por la clase 1",
     "cta2": {
-      "t": "Ver el programa Profissional 2030",
+      "t": "Ver el programa Profesional 2030",
       "href": "https://inematds.github.io/profissional-2030/"
     },
-    "capa_alt": "Auditor de IA: evaluar y hacer triaje de riesgos de IA con método y evidencia. Profissional 2030, INEMA.CLUB.",
+    "capa_alt": "Auditor de IA: evaluar y hacer triaje de riesgos de IA con método y evidencia. Profesional 2030, INEMA.CLUB.",
     "numeros": [
       {
         "v": "8",
@@ -76,9 +76,9 @@
         ]
       },
       {
-        "t": "Forma parte de Profissional 2030",
+        "t": "Forma parte de Profesional 2030",
         "itens": [
-          "Formación del programa <a href=\"https://inematds.github.io/profissional-2030/\">Profissional 2030</a>. Cada formación tendrá certificación INEMA; detalles próximamente.",
+          "Formación del programa <a href=\"https://inematds.github.io/profissional-2030/\">Profesional 2030</a>. Cada formación tendrá certificación INEMA; detalles próximamente.",
           "Requisito previo recomendado (no obligatorio): <a href=\"https://inematds.github.io/prof2030-base/\">Base comum</a>.",
           "Otras formaciones: <a href=\"https://inematds.github.io/prof2030-consultor/\">Consultor</a> · <a href=\"https://inematds.github.io/prof2030-auditor/\">Auditor</a> · <a href=\"https://inematds.github.io/prof2030-mentor/\">Mentor</a> · <a href=\"https://inematds.github.io/prof2030-treinador/\">Treinador</a>.",
           "Práctica: <a href=\"https://inematds.github.io/prof2030-lab/\">empresa-laboratorio Horizonte Distribuidora</a>."

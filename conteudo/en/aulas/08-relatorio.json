@@ -267,7 +267,7 @@
         },
         {
           "t": "Certification",
-          "texto": "Each Profissional 2030 program will have an INEMA qualification certificate; details coming soon."
+          "texto": "Each Professional 2030 program will have an INEMA qualification certificate; details coming soon."
         },
         {
           "t": "Scope",
@@ -370,12 +370,12 @@
           "icone": "check"
         },
         {
-          "t": "Profissional 2030 Program",
+          "t": "Professional 2030 Program",
           "href": "https://inematds.github.io/profissional-2030/",
           "icone": "camadas"
         },
         {
-          "t": "Profissional 2030 Common Base",
+          "t": "Professional 2030 Common Base",
           "href": "https://inematds.github.io/prof2030-base/",
           "icone": "lista"
         },

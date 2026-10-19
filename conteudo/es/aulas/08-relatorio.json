@@ -267,7 +267,7 @@
         },
         {
           "t": "Certificación",
-          "texto": "Cada formación de Profissional 2030 tendrá una certificación INEMA de calificación; detalles pronto."
+          "texto": "Cada formación de Profesional 2030 tendrá una certificación INEMA de calificación; detalles pronto."
         },
         {
           "t": "Alcance",
@@ -370,12 +370,12 @@
           "icone": "check"
         },
         {
-          "t": "Programa Profissional 2030",
+          "t": "Programa Profesional 2030",
           "href": "https://inematds.github.io/profissional-2030/",
           "icone": "camadas"
         },
         {
-          "t": "Base común del Profissional 2030",
+          "t": "Base común del Profesional 2030",
           "href": "https://inematds.github.io/prof2030-base/",
           "icone": "lista"
         },
