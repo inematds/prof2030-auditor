@@ -16,7 +16,7 @@
     "link": "Abrir o laboratório",
     "href": "https://inematds.github.io/prof2030-lab/"
   },
-  "rodape": "INEMA.CLUB · conteúdo aberto e gratuito · formato INEMA Learning v7.2 · <a href=\"https://inematds.github.io/profissional-2030/\">Profissional 2030</a> · <a href=\"https://inema.club/\">inema.club</a> · Avaliação e triagem de riscos de IA: não é pentest, nem resposta a incidente, nem parecer jurídico.",
+  "rodape": "INEMA.CLUB · conteúdo aberto e gratuito · formato INEMA Learning v7.2 · <a href=\"https://inematds.github.io/profissional-2030/\">Profissional 2030</a> · <a href=\"https://inema.club/\">inema.club</a> · Avaliação e triagem de riscos de IA: não é pentest, nem resposta a incidente, nem parecer jurídico. · <a href=\"https://www.inema.club/cursos/338-profissional-2030-auditor-de-ia-inventario-triagem-de-riscos-e-relatorio-8-aulas/\">Ficha deste curso no INEMA.CLUB</a> · <a href=\"https://www.inema.club/aprender-inteligencia-artificial/\">Guia: como aprender IA</a>",
   "videos": {},
   "inicio": {
     "kicker": "Profissional 2030 · formação Auditor de IA · 8 aulas",
@@ -29,10 +29,22 @@
     },
     "capa_alt": "Auditor de IA: avaliar e triar riscos de IA com método e evidência. Profissional 2030, INEMA.CLUB.",
     "numeros": [
-      {"v": "8", "t": "aulas de 15 a 25 min"},
-      {"v": "8", "t": "modelos para copiar"},
-      {"v": "12", "t": "falhas plantadas no laboratório"},
-      {"v": "1", "t": "relatório final com plano de 30 dias"}
+      {
+        "v": "8",
+        "t": "aulas de 15 a 25 min"
+      },
+      {
+        "v": "8",
+        "t": "modelos para copiar"
+      },
+      {
+        "v": "12",
+        "t": "falhas plantadas no laboratório"
+      },
+      {
+        "v": "1",
+        "t": "relatório final com plano de 30 dias"
+      }
     ],
     "aulas_titulo": "As aulas",
     "aulas_sub": "Na ordem do trabalho real: autorização, inventário, triagem, três frentes de revisão (apps, agentes, dados), governança e relatório.",
